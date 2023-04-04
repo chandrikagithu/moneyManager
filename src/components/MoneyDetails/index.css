@@ -1,0 +1,43 @@
+/* Write your CSS here */
+.money-detail-container {
+  display: flex;
+  margin-top: 35px;
+}
+.account-container {
+  width: 250px;
+  border-radius: 15px;
+  background-color: #ecfccb;
+  display: flex;
+  justify-content: space-around;
+  margin-right: 50px;
+  border: 1px solid #84cc16;
+}
+.image2 {
+  background-color: #cffafe;
+  border: 1px solid #06b6d4;
+}
+.image3 {
+  background-color: #ede9fe;
+  border: 1px solid #7c3aed;
+}
+.image {
+  width: 75px;
+  height: 75px;
+  margin-top: 23px;
+}
+.amount {
+  display: flex;
+  flex-direction: column;
+  margin-top: 15px;
+}
+.your {
+  color: #475569;
+  font-size: 14px;
+  font-family: 'Roboto';
+}
+.rupees {
+  color: #475569;
+  font-size: 25px;
+  font-weight: 500;
+  margin-top: 0;
+}

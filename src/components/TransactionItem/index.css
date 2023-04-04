@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.transaction-history-list {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  border-bottom: 1px solid #cbd5e1;
+  border-right: 1px solid #cbd5e1;
+  border-left: 1px solid #cbd5e1;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.delete-image {
+  width: 28px;
+  height: 28px;
+}
+.delete-button {
+  background-color: transparent;
+  border: none;
+}
+.amount-text {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 12px;
+  width: 30%;
+}
